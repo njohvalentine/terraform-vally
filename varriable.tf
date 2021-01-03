@@ -23,3 +23,6 @@ variable "destinationCIDRblock" {
 variable "mapPublicIP" {
   default = true
 }
+variable "accesskey" {
+  }
+variabel "secretkey" {}
