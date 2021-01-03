@@ -25,4 +25,4 @@ variable "mapPublicIP" {
 }
 variable "accesskey" {
   }
-variabel "secretkey" {}
+variable"secretkey" {}
